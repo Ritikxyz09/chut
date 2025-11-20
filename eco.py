@@ -8,7 +8,7 @@ from pytgcalls.types.input_stream import AudioPiped
 # ====== APNI DETAILS DAAL ======
 API_ID = 24788715                # <-- apna API ID
 API_HASH = "1803bb45fb125f52ff171f1d550ac5a9"    # <-- apna API HASH
-BOT_TOKEN = "8299355346:AAGb7Hat7XZJfNi2GmocXV_Lj8CFY9XnjtE"  # <-- apna BOT TOKEN
+BOT_TOKEN = "8207196624:AAFwMqpNtYaqNkKIOzY-ANta9ilf6pSs4rw"  # <-- apna BOT TOKEN
 # ===============================
 
 app = Client("eco-bot", api_id=API_ID, api_hash=API_HASH, bot_token=BOT_TOKEN)
